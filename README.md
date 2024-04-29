@@ -31,10 +31,6 @@ Install our latest hydroDL package from github
 pip install git+https://github.com/AXuaner/MetaLSTM/hydroDL
 ```
 
-_Note:_
-If you want to run our examples directly, please download the [example folder](https://github.com/AXuaner/MetaLSTM/hydroDL)
-
-There exists a small compatibility issue with our code when using the latest pyTorch version. Feel free to contact us if you find any issues or code bugs that you cannot resolve.
 
 
 Please download both forcing, observation data `CAMELS time series meteorology, observed flow, meta data (.zip)` and basin attributes `CAMELS Attributes (.zip)`. 
