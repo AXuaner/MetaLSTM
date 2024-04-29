@@ -3,7 +3,7 @@
 This code contains deep learning code used to streamflow forecast. 
 
 This released code depends on our hydroDL repository, please follow our original github repository where we will release new updates occasionally
-https://github.com/mhpi/hydroDL
+https://github.com/AXuaner/Meta-LSTM/hydroDL
 
 
 # Examples
