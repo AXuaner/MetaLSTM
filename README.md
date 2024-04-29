@@ -3,7 +3,7 @@
 This code contains deep learning code used to streamflow forecast. 
 
 This released code depends on our hydroDL repository, please follow our original github repository where we will release new updates occasionally
-https://github.com/AXuaner/Meta-LSTM/hydroDL
+https://github.com/AXuaner/MetaLSTM/hydroDL
 
 
 # Examples
@@ -28,11 +28,11 @@ pip install hydroDL
 Install our latest hydroDL package from github
 
 ```
-pip install git+https://github.com/mhpi/hydroDL
+pip install git+https://github.com/AXuaner/MetaLSTM/hydroDL
 ```
 
 _Note:_
-If you want to run our examples directly, please download the [example folder]() (It contains the code and data for these examples). 
+If you want to run our examples directly, please download the [example folder](https://github.com/AXuaner/MetaLSTM/hydroDL)
 
 There exists a small compatibility issue with our code when using the latest pyTorch version. Feel free to contact us if you find any issues or code bugs that you cannot resolve.
 
